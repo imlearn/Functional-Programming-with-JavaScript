@@ -10,3 +10,8 @@ Learning Functional Programming with JavaScript
 ## Higher-Order Functions
 
 A functions that takes a function as an argument, returns a function, or both.
+
+## Advanced Concepts
+
+- Partial application
+- Recursion
